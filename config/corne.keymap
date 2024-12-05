@@ -80,7 +80,7 @@
             bindings = <
 &bt BT_NXT  &bt BT_PRV  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &bl BL_OFF         &bl BL_ON
 &trans      &trans      &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &rgb_ug RGB_OFF    &rgb_ug RGB_ON
-&trans      &trans      &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &ext_power EP_OFF  &ext_power EP_ON
+&studio_unlock      &trans      &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &ext_power EP_OFF  &ext_power EP_ON
                                 &trans  &trans  &trans    &trans  &trans  &trans
             >;
         };
